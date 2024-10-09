@@ -8,7 +8,7 @@ output:
     toc_depth: 2
 ---
 
-![](./img/headshot.jpg){width="150px"}
+![](../img/headshot.jpg){width="150px"}
 
 **Data Scientist and Health Science Research Expert**\
 **Email:** [wanghanchenwhc\@gmail.com](mailto:wanghanchenwhc@gmail.com){.email}\
